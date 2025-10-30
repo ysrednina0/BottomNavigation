@@ -100,7 +100,7 @@ Aplikasi ini mengirim data objek `Book` ke `DetailScreen` dari **dua alur berbed
 
 |      HomeScreen (Daftar Buku)       | AddBookScreen (Tambah Buku) | DetailScreen (Detail Buku) |
 |:-----------------------------------:| :---: | :---: |
-| ![Home Screen](app/src/assets/Home.jpeg) | ![Add Book Screen](app/src/assets/Add.jpeg) | ![Detail Screen](app/src/assets/Detail.jpeg) |
+| ![Home Screen](app/src/assets/Home.jpeg) | ![Add Book Screen](app/src/assets/Add.jpeg) | ![Detail Screen](https://github.com/ysrednina0/BottomNavigation/blob/560ff4bb85d912a5623fcdd87d2b298a18f37604/app/src/assets/Detail.jpeg) |
 |        Tampilan daftar buku         | Tampilan form tambah buku | Tampilan detail buku |
 
 ---
